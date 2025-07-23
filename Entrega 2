@@ -1,1 +1,19 @@
+En esta segunda entrega para lo que es elegir un método de feature selection para reducir la dimensionalidad del dataset, seleccioné modelo Random Forest para evaluar la importancia de cada característica.
+Realicé un análisis para identificar qué factores son los más importantes para impulsar las ventas totales. 
+Primero, organicé y limpié los datos de ventas, incluyendo información como nombres de productos, categorías, fechas de venta y datos de los clientes. Luego, el modelo identificó automáticamente cuáles de estos
+factores tienen el mayor impacto en el total de ventas.
+
+¿Qué se encontró con esto?
+
+Identifiqué los productos, categorías y clientes que más influyen en el total de ventas.
+Descubrí patrones y relaciones clave que podrían no ser evidentes a simple vista.
+
+¿Qué se podría hacer con esta información?
+
+1) Optimizar estrategias de marketing: Enfocarse en los productos y categorías más influyentes para maximizar el retorno de inversión en marketing.
+2) Mejorar la gestión de clientes: Identificar y fidelizar a los clientes más valiosos.
+3) Tomar decisiones más informadas: Utilizar estos datos para predecir tendencias de ventas y ajustar el inventario y la producción en consecuencia.
+
+En resumen, este análisis nos proporciona una visión clara y basada en datos sobre los factores que realmente impulsan las ventas. 
+Esto permitirá tomar decisiones más estratégicas y optimizar los esfuerzos de la empresa para lograr un mayor crecimiento y rentabilidad.
 
