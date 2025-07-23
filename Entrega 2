@@ -1,3 +1,4 @@
+**Características Principales:**
 En esta segunda entrega para lo que es elegir un método de feature selection para reducir la dimensionalidad del dataset, seleccioné modelo *Random Forest* para evaluar la importancia de cada característica.
 Realicé un análisis para identificar qué factores son los más importantes para impulsar las ventas totales. 
 Primero, organicé y limpié los datos de ventas, incluyendo información como nombres de productos, categorías, fechas de venta y datos de los clientes. Luego, el modelo identificó automáticamente cuáles de estos
